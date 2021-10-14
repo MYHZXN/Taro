@@ -1,17 +1,5 @@
-<!--
- * @Author: ShawnPhang
- * @LastEditors: ShawnPhang
- * @Description: 
- * blog.palxp.com/book.palxp.com
--->
+# Mr.Mating Note
 
-# Front End Book
+Today, touch fish or wirte a md 
 
-this is my Front-end universe.
-
-用来作记录的笔记，基于docsify驱动，部署在GithubPages。
-
-本地启动: 
-```sh
-docsify serve docs
-```
+一起愉快地搬砖吧！
