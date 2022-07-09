@@ -2,7 +2,7 @@
 
 * Spring笔记
     * [TransactionSynchronizationManager原理](articles/spring/TransactionSynchronizationManager.md)
-    * [@TransactionEventListner原理](articles/loading/loading.md)
+    * [还不赶紧用ApplicationEvent](articles/spring/还不赶紧用ApplicationEvent.md)
 
 * Java笔记
     * [更新中](articles/loading/loading.md)
